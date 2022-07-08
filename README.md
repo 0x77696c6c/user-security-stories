@@ -6,7 +6,7 @@ This repository contains a collection of user security stories and acceptance cr
 
 - [Security Acceptance Criteria](security-acceptance-criteria.md)
 
-Please fork and contribute additional security stories and acceptance criteria that you think will benefit the community.
+Review
 
 ## History
 
